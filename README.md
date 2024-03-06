@@ -1,2 +1,2 @@
-# Publication-Figures
-Figures included in publications from the Dhong Lab
+# Publications
+Text and figures included in publications from the Dhong Lab
